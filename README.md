@@ -21,7 +21,7 @@ We will follow [Hi] and [Mi].
 **1. Preparatory material**
 - 03.02.2022: <strong> Multiplicative sequences </strong> | [notes](https://drive.google.com/file/d/1UPAgwL30Ms3qit-BVY6VO7rn2oNzsXgU/view?usp=sharing) <br/> J. Cuadros, R. Gonzales, M. Grados
 - 10.02.2022: <strong> Cohomology of sheaves I </strong> | [notes](https://drive.google.com/file/d/1EehDboMZJACWEG5lo4HdcepqsgZD1WEn/view?usp=sharing) <br/> M. Grados
-- 17.02.2022: <strong> Cohomology of sheaves II </strong> | [notes]() <br/> M. Grados
+- 17.02.2022: <strong> Cohomology of sheaves II </strong> | [notes]() <br/> J. Cuadros
 - 24.02.2022: <strong> Fibre bundles I </strong> | [notes]() <br/> R. Gonzales
 - 03.03.2022: <strong> Fibre bundles II </strong> | [notes]() <br/> R. Gonzales
 
