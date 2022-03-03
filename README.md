@@ -22,7 +22,7 @@ We will follow [Hi] and [Mi].
 - 03.02.2022: <strong> Multiplicative sequences </strong> | [notes](https://drive.google.com/file/d/1UPAgwL30Ms3qit-BVY6VO7rn2oNzsXgU/view?usp=sharing) <br/> J. Cuadros, R. Gonzales, M. Grados
 - 10.02.2022: <strong> Cohomology of sheaves I </strong> | [notes](https://drive.google.com/file/d/1EehDboMZJACWEG5lo4HdcepqsgZD1WEn/view?usp=sharing) <br/> M. Grados
 - 24.02.2022: <strong> Cohomology of sheaves II </strong> | [notes](https://drive.google.com/file/d/1UAhPw_41fadxUqpEz8gOplqQGpVvtll5/view?usp=sharing) <br/> J. Cuadros
-- 03.03.2022: <strong> Fibre bundles I </strong> | [notes]() <br/> R. Gonzales
+- 03.03.2022: <strong> Fibre bundles I </strong> | [notes](https://drive.google.com/file/d/1FNzsPLTX6BGqFEWgJdjO38SQSiH1FqoD/view?usp=sharing) <br/> R. Gonzales
 - 10.03.2022: <strong> Fibre bundles II </strong> | [notes]() <br/> R. Gonzales
 
 **2. Characteristic classes**
