@@ -26,9 +26,8 @@ We will follow [Hi] and [Mi].
 - 10.03.2022: <strong> Fibre bundles II </strong> | [notes](https://drive.google.com/file/d/1Gp7mzNczauXx5UmZbzvFoZ2W9bXXj3_x/view?usp=sharing) <br/> R. Gonzales
 
 **2. Characteristic classes**
-- 17.03.2022: <strong> Characteristic classes: Introduction </strong> | [notes]()  <br/> J. Cuadros
-- 24.03.2022: <strong> Characteristic classes: Stiefel-Whitney classes </strong> | [notes]()  <br/> J. Cuadros
-- 31.03.2022: <strong> Characteristic classes: Euler classes </strong> | [notes]()  <br/> J. Cuadros
+- 17.03.2022: <strong> Fibre bundles III </strong> | [notes](https://drive.google.com/file/d/1oTD1u9NVC4yZWz8Avoe9mVFjE0nc31vO/view?usp=sharing)  <br/> R. Gonzales
+- 31.03.2022: <strong> Characteristic classes: Stiefel-Whitney classes. Euler classes </strong> | [notes]()  <br/> J. Cuadros
 - 07.03.2022: <strong> Characteristic classes: Chern classes </strong> | [notes]()  <br/> M. Grados
 - 14.04.2022: <strong> Characteristic classes: Pontrjangin classes </strong> | [notes]()  <br/> J. Cuadros
 
