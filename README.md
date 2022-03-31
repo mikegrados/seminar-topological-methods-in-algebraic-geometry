@@ -27,15 +27,16 @@ We will follow [Hi] and [Mi].
 - 17.03.2022: <strong> Fibre bundles III </strong> | [notes](https://drive.google.com/file/d/1oTD1u9NVC4yZWz8Avoe9mVFjE0nc31vO/view?usp=sharing)  <br/> R. Gonzales
 
 **2. Characteristic classes**
-- 31.03.2022: <strong> Characteristic classes: Stiefel-Whitney classes. Euler classes </strong> | [notes]()  <br/> J. Cuadros
-- 07.03.2022: <strong> Characteristic classes: Chern classes </strong> | [notes]()  <br/> M. Grados
-- 14.04.2022: <strong> Characteristic classes: Pontrjangin classes </strong> | [notes]()  <br/> J. Cuadros
+- 31.03.2022: <strong> Connection and curvature </strong> | [notes](https://drive.google.com/file/d/1JxyI_H0-V3721u4WaleNK-9DxBTCA8aB/view?usp=sharing) <br/> J. Cuadros  
+- 07.03.2022: <strong> Characteristic classes: Stiefel-Whitney classes. Euler classes </strong> | [notes]()  <br/> J. Cuadros
+- 14.03.2022: <strong> Characteristic classes: Chern classes </strong> | [notes]()  <br/> M. Grados
+- 21.04.2022: <strong> Characteristic classes: Pontrjangin classes </strong> | [notes]()  <br/> J. Cuadros
 
 **3. The cobordism ring**
-- 21.04.2022: <strong> Pontrjagin numbers </strong> | [notes]()  <br/> R. Gonzales
-- 28.04.2022: <strong> The cobordism ring </strong> | [notes]()  <br/> R. Gonzales
-- 05.05.2022: <strong> The index of a 4k-dimensional manifold </strong> | [notes]()  <br/> J. Cuadros
-- 12.05.2022: <strong> The virtual index </strong> | [notes]()  <br/> M. Grados
+- 28.04.2022: <strong> Pontrjagin numbers </strong> | [notes]()  <br/> R. Gonzales
+- 05.05.2022: <strong> The cobordism ring </strong> | [notes]()  <br/> R. Gonzales
+- 12.05.2022: <strong> The index of a 4k-dimensional manifold </strong> | [notes]()  <br/> J. Cuadros
+- 19.05.2022: <strong> The virtual index </strong> | [notes]()  <br/> M. Grados
 
 **4. The Todd genus**
 - TBA
