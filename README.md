@@ -28,7 +28,7 @@ We will follow [Hi] and [Mi].
 
 **2. Characteristic classes**
 - 31.03.2022: <strong> Connection and curvature I</strong> | [notes](https://drive.google.com/file/d/1JxyI_H0-V3721u4WaleNK-9DxBTCA8aB/view?usp=sharing) <br/> J. Cuadros  
-- 07.03.2022: <strong> Connection and curvature I</strong> | [notes](https://drive.google.com/file/d/124Tnh1vwNIDUeiBnGq_k7yo70zk87W-e/view?usp=sharing) <br/> J. Cuadros  
+- 07.03.2022: <strong> Connection and curvature II</strong> | [notes](https://drive.google.com/file/d/124Tnh1vwNIDUeiBnGq_k7yo70zk87W-e/view?usp=sharing) <br/> J. Cuadros  
 - 21.03.2022: <strong> Characteristic classes: Stiefel-Whitney classes. Euler classes </strong> | [notes]()  <br/> J. Cuadros
 - 28.03.2022: <strong> Characteristic classes: Chern classes </strong> | [notes]()  <br/> M. Grados
 - 05.05.2022: <strong> Characteristic classes: Pontrjangin classes </strong> | [notes]()  <br/> J. Cuadros
